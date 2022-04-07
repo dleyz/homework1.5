@@ -45,9 +45,6 @@ public class Main {
                 c[i] = c[i] + 1;
             } else if (c[i] % 2 == 0) ;
             System.out.print(c[i] + ", ");
-            if (i == c.length - 1){
-                System.out.println();
-            }
             {
 
         }
